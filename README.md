@@ -3,7 +3,9 @@ A little script that takes the output of the read quality control tool [FastQC](
 
 usage:
 
-`fastqc_parser.py [-h] [-o [OUTDIR]] [--fastaconvert] [-v] [--version] infile`
+```
+fastqc_parser.py [-h] [-o [OUTDIR]] [--fastaconvert] [-v] [--version] infile
+```
 
 options:
 
